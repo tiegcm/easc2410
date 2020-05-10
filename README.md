@@ -41,4 +41,4 @@ either the lecturer or the TA by appointment.
 
 Notes| Lecture | Notebook | Topic                                   | Applications |
 -----| --------|----------|------------------------------------     | -----------  |
-1    |         |          |  Intro to Python and Data Science        |
+[1](https://github.com/tiegcm/easc2410/blob/master/Notes/Lec_1_Introduction_Pythong_in_General.pdf)    |         |          |  Intro to Python and Data Science        |
