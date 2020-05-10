@@ -39,23 +39,23 @@ either the lecturer or the TA by appointment.
 
 ## Course Schedule
 
-Lec. Notes   | Topic                                   | Applications
+Lec. Notes   | Topic                                   | Applications |
 ------ | ----------------------------------------| -------------             
-[Lecture 1](http://tiegcm.github.io/files/EASC2410/Lec1.pdf)      | Intro to Python and Data Science        |
-2      | Python basics 1: Variables, Operations  | a "hello world" program
+1      | Intro to Python and Data Science        |
+2      | Python basics 1: Variables, Operations  | a "hello world" program |
 3      | Python basics 2: Data types, program control |
 4      | Python basics 3: Functions and Modules  |
 5.     | Numpy 1: 1-D Numpy arrays and Matplotlib |
-6.     | Numpy 2: More on 1-D plots using Matplotlib      | Life expectency
-7.     | Numpy 3: 2-D Numpy Arrays, load data using NumPy | Earthquake data
-8.     | Visualization 1: Creating maps with data - basemap.      | Typhoon track
-9.     | Pandas 1: Intro to Pandas. | Student grades
-10.    | Pandas 2: Data wrangling with Pandas | Seismic waves
-11.    | Wrap-up session 1: mid-term review|
+6.     | Numpy 2: More on 1-D plots using Matplotlib      | Life expectency |
+7.     | Numpy 3: 2-D Numpy Arrays, load data using NumPy | Earthquake data |
+8.     | Visualization 1: Creating maps with data - basemap.      | Typhoon track |
+9.     | Pandas 1: Intro to Pandas. | Student grades |
+10.    | Pandas 2: Data wrangling with Pandas | Seismic waves |
+11.    | Wrap-up session 1: mid-term review |
 12.    | Python basics 4:Error messages and debug interlude |
 13.    | Statistics 1: Probability, Expectation | 
 14.    | Statistics 2: distributions, histograms | 
-15.    | Statistics 3: Covariance, Correlation and Curve fitting | Covid-19 Pandemic
+15.    | Statistics 3: Covariance, Correlation and Curve fitting | Covid-19 Pandemic |
 16.    | Special topic 1: the covid-19 pandemic |
 17.    | Special topic 2: mathematical modeling of epidemics |
 18.    | Special topic 3: geospatial data processing of epidemics |
