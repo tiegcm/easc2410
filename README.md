@@ -40,5 +40,5 @@ either the lecturer or the TA by appointment.
 ## Course Schedule
 
 Notes| Lecture | Notebook | Topic                                   | Applications |
------| --------|----------|-----------------------|-------------     |             |
+-----| --------|----------|------------------------------------     | -----------  |
 1    |         |          |  Intro to Python and Data Science        |
